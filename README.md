@@ -1,1 +1,1 @@
-# Parallel-matrix-multiplication-with-OpenMP
+# Parallel matrix multiplication with OpenMP
